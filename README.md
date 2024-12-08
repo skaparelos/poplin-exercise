@@ -2,7 +2,7 @@
 
 Open 2 terminals. One for running the server and one for running the client
 
-**Server:**
+## Server
 ```
 $ cd server
 $ npm i
@@ -12,7 +12,7 @@ Server is now running at http://localhost:3000
 
 (Alternatively you can run with docker by running `cd server & docker compose up --build`)
 
-**Client:**
+## Client
 ```
 $ cd client
 $ npm i
@@ -20,12 +20,12 @@ $ npm run dev
 ```
 Client is now running at http://localhost:5173
 
-## Description
+# Description
 
 Server: Uses Typescript, Express, and creates the /api/pokemon API 
 
 Client: Uses Typescript, React, Tailwind CSS
 
-## Screenshot
+# Screenshot
 
 ![Screenshot](screenshot.png)
