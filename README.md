@@ -17,3 +17,8 @@ $ npm i
 $ npm run dev
 ```
 Client is now running at http://localhost:5173
+
+
+## Screenshot
+
+![Screenshot](screenshot.png)
